@@ -1,4 +1,4 @@
-# videoPlayer (Qml Based Program)
+# videoPlayer (Qml Based Program) Qt 6.4
 
 Has the Following Functionality:
 

@@ -6,6 +6,6 @@ Has the Following Functionality:
 • Have play and pause buttons and a progress slider 
 • Slider should also allow user to drag to seek playback position of the video file that’s being played.
 
-#Testing
+##Testing
 
 qmlscene was used for testing purposes.
